@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		09C5A7A51FDB25CF00E9FAE6 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 09C5A7A41FDB25CF00E9FAE6 /* GoogleService-Info.plist */; };
+		1FC23C0403C9D5D5366421A1 /* Pods_instaham.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F649BDA32F191926BD502B6 /* Pods_instaham.framework */; };
 		92763B341FB3944B00B10298 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92763B331FB3944B00B10298 /* AppDelegate.swift */; };
 		92763B361FB3944B00B10298 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92763B351FB3944B00B10298 /* ViewController.swift */; };
 		92763B391FB3944B00B10298 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92763B371FB3944B00B10298 /* Main.storyboard */; };
@@ -18,6 +19,8 @@
 
 /* Begin PBXFileReference section */
 		09C5A7A41FDB25CF00E9FAE6 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "GoogleService-Info.plist"; path = "../../GoogleService-Info.plist"; sourceTree = "<group>"; };
+		0C790E562F3FFA712BD19C16 /* Pods-instaham.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-instaham.debug.xcconfig"; path = "Pods/Target Support Files/Pods-instaham/Pods-instaham.debug.xcconfig"; sourceTree = "<group>"; };
+		8F649BDA32F191926BD502B6 /* Pods_instaham.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_instaham.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		92763B301FB3944B00B10298 /* instaham.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = instaham.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92763B331FB3944B00B10298 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92763B351FB3944B00B10298 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -26,6 +29,7 @@
 		92763B3D1FB3944B00B10298 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92763B401FB3944B00B10298 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92763B421FB3944B00B10298 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4A97998C23C9DF240FE24FD /* Pods-instaham.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-instaham.release.xcconfig"; path = "Pods/Target Support Files/Pods-instaham/Pods-instaham.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,17 +37,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FC23C0403C9D5D5366421A1 /* Pods_instaham.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		27EF9993871C2EAB9657D0F2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8F649BDA32F191926BD502B6 /* Pods_instaham.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		752C7BB56010D2DA856515D4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0C790E562F3FFA712BD19C16 /* Pods-instaham.debug.xcconfig */,
+				D4A97998C23C9DF240FE24FD /* Pods-instaham.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		92763B271FB3944A00B10298 = {
 			isa = PBXGroup;
 			children = (
 				92763B321FB3944B00B10298 /* instaham */,
 				92763B311FB3944B00B10298 /* Products */,
+				752C7BB56010D2DA856515D4 /* Pods */,
+				27EF9993871C2EAB9657D0F2 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,9 +101,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 92763B451FB3944B00B10298 /* Build configuration list for PBXNativeTarget "instaham" */;
 			buildPhases = (
+				5B9BEABD3CACBE8F6123C822 /* [CP] Check Pods Manifest.lock */,
 				92763B2C1FB3944A00B10298 /* Sources */,
 				92763B2D1FB3944A00B10298 /* Frameworks */,
 				92763B2E1FB3944A00B10298 /* Resources */,
+				07C83F06506E5C0AEB194CCD /* [CP] Embed Pods Frameworks */,
+				6BAF53FAA5EC05506D7702A3 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -137,6 +164,62 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		07C83F06506E5C0AEB194CCD /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-instaham/Pods-instaham-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-instaham/Pods-instaham-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5B9BEABD3CACBE8F6123C822 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-instaham-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6BAF53FAA5EC05506D7702A3 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-instaham/Pods-instaham-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		92763B2C1FB3944A00B10298 /* Sources */ = {
@@ -266,6 +349,7 @@
 		};
 		92763B461FB3944B00B10298 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C790E562F3FFA712BD19C16 /* Pods-instaham.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = instaham/Info.plist;
@@ -278,6 +362,7 @@
 		};
 		92763B471FB3944B00B10298 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D4A97998C23C9DF240FE24FD /* Pods-instaham.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = instaham/Info.plist;
