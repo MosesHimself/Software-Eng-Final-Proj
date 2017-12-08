@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		09C5A7A31FDB21D900E9FAE6 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 09C5A7A21FDB21D900E9FAE6 /* GoogleService-Info.plist */; };
 		92763B341FB3944B00B10298 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92763B331FB3944B00B10298 /* AppDelegate.swift */; };
 		92763B361FB3944B00B10298 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92763B351FB3944B00B10298 /* ViewController.swift */; };
 		92763B391FB3944B00B10298 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92763B371FB3944B00B10298 /* Main.storyboard */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		09C5A7A21FDB21D900E9FAE6 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		92763B301FB3944B00B10298 /* instaham.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = instaham.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92763B331FB3944B00B10298 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92763B351FB3944B00B10298 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,7 +56,6 @@
 		92763B321FB3944B00B10298 /* instaham */ = {
 			isa = PBXGroup;
 			children = (
-				09C5A7A21FDB21D900E9FAE6 /* GoogleService-Info.plist */,
 				92763B331FB3944B00B10298 /* AppDelegate.swift */,
 				92763B351FB3944B00B10298 /* ViewController.swift */,
 				92763B371FB3944B00B10298 /* Main.storyboard */,
@@ -130,7 +127,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				92763B411FB3944B00B10298 /* LaunchScreen.storyboard in Resources */,
-				09C5A7A31FDB21D900E9FAE6 /* GoogleService-Info.plist in Resources */,
 				92763B3E1FB3944B00B10298 /* Assets.xcassets in Resources */,
 				92763B391FB3944B00B10298 /* Main.storyboard in Resources */,
 			);
@@ -307,7 +303,6 @@
 				92763B471FB3944B00B10298 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
