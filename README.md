@@ -15,3 +15,11 @@ An Instagram clone created by our group using Swift and Firebase
 - This was because Firebase works with IOS using CocoaPods and I (HG), have had no experience using those.
 - Fortunately, I had found out that CocoaPods works using Ruby and is a Gem, which I have had some experience with.
 - Using that knowledge I was able to create the pod file and add the Firebase to our project!
+
+
+## View
+- The view is definitely the most simple part of the application in terms of work and thought needed
+- The original Instagram app layout would make the most sense to use.
+- We decided to have three different scenes that a user would be able to see.
+- The main scene would be a user's "Timeline"
+* where all of the new posts of the users they follow would be displayed
