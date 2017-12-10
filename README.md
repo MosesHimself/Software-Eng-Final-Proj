@@ -21,5 +21,5 @@ An Instagram clone created by our group using Swift and Firebase
 - The view is definitely the most simple part of the application in terms of work and thought needed
 - The original Instagram app layout would make the most sense to use.
 - We decided to have three different scenes that a user would be able to see.
-- The main scene would be a user's "Timeline"
-* where all of the new posts of the users they follow would be displayed
+- The main scene would be a user's "Timeline", where all of the new posts of the users they follow would be displayed
+- This would go in chronological order from when the posts had been created
