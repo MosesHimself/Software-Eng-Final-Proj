@@ -23,3 +23,20 @@ An Instagram clone created by our group using Swift and Firebase
 - We decided to have three different scenes that a user would be able to see.
 - The main scene would be a user's "Timeline", where all of the new posts of the users they follow would be displayed
 - This would go in chronological order from when the posts had been created
+
+## Controller
+
+
+# Scrum/Kahnbahn Process
+- [Here is a link to our environment](https://docs.google.com/spreadsheets/d/1bvLWHnr4DOBnJgx6yxXo4vlfA3YVRor0wbPGG8gUI-k/edit?usp=sharing)
+## Daily Scrum Meetings
+-
+-
+
+## Sprint 1
+
+## Sprint 2
+
+## Sprint 3
+
+## Sprint 4
