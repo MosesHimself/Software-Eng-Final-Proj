@@ -1,7 +1,7 @@
 # Software Engineering Final Project!!
 ## Instaham
 An Instagram clone created by our group using Swift and Firebase
-- Group Members:
+- Group Members: HG King, David Lawanson, DeVante Sharod
 ## Concept
 - Our idea was to recreate Instagram to practice app development.
 - We wanted to utilize the Model View Controller design principle.
@@ -34,12 +34,12 @@ An Instagram clone created by our group using Swift and Firebase
 
 # Scrum/Kanban Process
 - [Here is a link to our environment](https://docs.google.com/spreadsheets/d/1bvLWHnr4DOBnJgx6yxXo4vlfA3YVRor0wbPGG8gUI-k/edit?usp=sharing)
-- Unfortunately we had not for-seen the trial ending for our SmartSheet 30 days after we had started it.
+- Unfortunately we had not foreseen the trial ending for our SmartSheet 30 days after we had started it.
 - [Here](https://github.com/MosesHimself/Software-Eng-Final-Proj/blob/master/SmartSheetEmail.png) is the email they had sent me.
 - Since we could not export the data as they had claimed, we had to transfer our Kanban board over to a Google Spreadsheet last minute.
 ## Daily Scrum Meetings
-- Tuesdays and Thursday we met before class and just talked about what we did the day prior, what we will do that day, and any troubles.
-- Wednesday and Friday we met during the day, had a similar scrum meeting as specified above, and additionally had an hour or so of group work.
+- Tuesdays and Thursdays we met before class and just talked about what we did the day prior, what we will do that day, and any troubles we may have had that needed to be addressed.
+- Wednesdays and Fridays we met during the day, had a similar scrum meeting as specified above, and additionally had an hour or so of group work.
 
 ## Sprint 1
 ### Timeline: October 9th - October 27th
@@ -61,7 +61,7 @@ An Instagram clone created by our group using Swift and Firebase
 - There were tons of difficulties during this sprint due to Thanksgiving break.
 - Communication definitely broke down due to traveling and various other school assignments took priority over project work at the time.
 - We had to leave two stories/epics in the product backlog, brainstorming the controller and developing the view.
-- We did complete the design for our view, seen above in the View section.
+- We did complete the design for our view though, seen above in the View section.
 ## Sprint 4
 ### Timeline: November 27th - December 11th
 - Upon return from Thanksgiving break we had a lot that needed to get done.
@@ -73,3 +73,4 @@ An Instagram clone created by our group using Swift and Firebase
 - Deciding to use a new language for most of our group was a bold decision and ended up complicating things substantially.
 - Although we may not have completed every goal we had on the software and development side of things, we had definitely learned a ton about the scrum process.
 - It became much easier as a group to follow the process as time went on and we gained more experience together.
+- All in all, we can say it was a great experience and we would each be able to say we have a good amount of experience and knowledge about using the scrum design principles.
