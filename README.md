@@ -1,7 +1,7 @@
 # Software Engineering Final Project!!
 ## Instaham
 An Instagram clone created by our group using Swift and Firebase
-Group Members:
+- Group Members:
 ## Concept
 - Our idea was to recreate Instagram to practice app development.
 - We wanted to utilize the Model View Controller design principle.
@@ -51,9 +51,23 @@ Group Members:
 - On the contrary, creating the concept for our model was no challenge as we had done this many times before in previous classes.
 ## Sprint 2
 ### Timeline: October 30th - November 10th
--
+- The second sprint was the most progressive for our group by far.
+- We were able to implement a lot of things we had set up in the previous sprint, namely the Firebase.
+- Once we were able to get the database part of Firebase up and running, we had a lot more to work with.
+- We had figured out which format we would want to use for our database that would be most fitting for our app.
+- This sprint was when we started playing around with github and we had to learn how to use it.
 ## Sprint 3
 ### Timeline: November 13th - November 24th
-
+- There were tons of difficulties during this sprint due to Thanksgiving break.
+- Communication definitely broke down due to traveling and various other school assignments took priority over project work at the time.
+- We had to leave two stories/epics in the product backlog, brainstorming the controller and developing the view.
+- We did complete the design for our view, seen above in the View section.
 ## Sprint 4
 ### Timeline: November 27th - December 11th
+- Upon return from Thanksgiving break we had a lot that needed to get done.
+- We had finally began implementing our view in xcode and our project started to really take shape.
+## Conclusion
+- Looking back, we had picked way too large of a project for the amount of people we had in our group.
+- Deciding to use a new language for most of our group was a bold decision and ended up complicating things substantially.
+- Although we may not have completed every goal we had on the software and development side of things, we had definitely learned a ton about the scrum process.
+- It became much easier as a group to follow the process as time went on and we gained more experience together.
