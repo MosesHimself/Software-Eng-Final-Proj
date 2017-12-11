@@ -42,6 +42,7 @@ Group Members:
 - Wednesday and Friday we met during the day, had a similar scrum meeting as specified above, and additionally had an hour or so of group work
 
 ## Sprint 1
+### Timeline: October 9th - October 27th
 - The first sprint we had to begin the design process.
 - As a group we had decided to recreate Instagram, as it is an app we all were familiar with.
 - The stories we created were basic and general, but we eventually broke them down into smaller bits.
@@ -49,7 +50,10 @@ Group Members:
 - For example we needed to learn how Firebase worked to even begin using it.
 - On the contrary, creating the concept for our model was no challenge as we had done this many times before in previous classes.
 ## Sprint 2
-
+### Timeline: October 30th - November 10th
+-
 ## Sprint 3
+### Timeline: November 13th - November 24th
 
 ## Sprint 4
+### Timeline: November 27th - December 11th
