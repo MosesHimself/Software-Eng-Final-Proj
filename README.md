@@ -1,7 +1,7 @@
 # Software Engineering Final Project!!
 ## Instaham
 An Instagram clone created by our group using Swift and Firebase
-- Group Members: HG King, David Lawanson, DeVante Sharod
+- Group Members: HG King, Oluwalademi Lawanson, DeVante Sharod
 ## Concept
 - Our idea was to recreate Instagram to practice app development.
 - We wanted to utilize the Model View Controller design principle.
