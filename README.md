@@ -25,13 +25,16 @@ An Instagram clone created by our group using Swift and Firebase
 - This would go in chronological order from when the posts had been created
 
 ## Controller
-
+-
+-
+-
 
 # Scrum/Kahnbahn Process
 - [Here is a link to our environment](https://docs.google.com/spreadsheets/d/1bvLWHnr4DOBnJgx6yxXo4vlfA3YVRor0wbPGG8gUI-k/edit?usp=sharing)
+- Unfortunately we had not for-seen the trial ending for our SmartSheet 30 days after we had started it.
 ## Daily Scrum Meetings
--
--
+- Tuesdays and Thursday we met before class and just talked about what we did the day prior, what we will do that day, and any troubles
+- Wednesday and Friday we met during the day, had a similar scrum meeting as specified above, and additionally had an hour or so of group work
 
 ## Sprint 1
 
