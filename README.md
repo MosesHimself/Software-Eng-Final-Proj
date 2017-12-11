@@ -1,7 +1,7 @@
 # Software Engineering Final Project!!
 ## Instaham
 An Instagram clone created by our group using Swift and Firebase
-
+Group Members:
 ## Concept
 - Our idea was to recreate Instagram to practice app development.
 - We wanted to utilize the Model View Controller design principle.
@@ -32,17 +32,22 @@ An Instagram clone created by our group using Swift and Firebase
 - With our group having very little experience with Swift, we decided to develop this part last.
 - Unfortunately due to time constraints we had not gotten to complete this part of the design for our app.
 
-# Scrum/Kahnbahn Process
+# Scrum/Kanban Process
 - [Here is a link to our environment](https://docs.google.com/spreadsheets/d/1bvLWHnr4DOBnJgx6yxXo4vlfA3YVRor0wbPGG8gUI-k/edit?usp=sharing)
 - Unfortunately we had not for-seen the trial ending for our SmartSheet 30 days after we had started it.
 - [Here](https://github.com/MosesHimself/Software-Eng-Final-Proj/blob/master/SmartSheetEmail.png) is the email they had sent me.
-- Since we could not export the data as they had claimed, we had to transfer our Kanbahn board over to a Google Spreadsheet last minute.
+- Since we could not export the data as they had claimed, we had to transfer our Kanban board over to a Google Spreadsheet last minute.
 ## Daily Scrum Meetings
 - Tuesdays and Thursday we met before class and just talked about what we did the day prior, what we will do that day, and any troubles
 - Wednesday and Friday we met during the day, had a similar scrum meeting as specified above, and additionally had an hour or so of group work
 
 ## Sprint 1
-- The first sprint we had
+- The first sprint we had to begin the design process.
+- As a group we had decided to recreate Instagram, as it is an app we all were familiar with.
+- The stories we created were basic and general, but we eventually broke them down into smaller bits.
+- The biggest challenge here was doing things that were new to us.
+- For example we needed to learn how Firebase worked to even begin using it.
+- On the contrary, creating the concept for our model was no challenge as we had done this many times before in previous classes.
 ## Sprint 2
 
 ## Sprint 3
