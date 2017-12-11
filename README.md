@@ -38,8 +38,8 @@ An Instagram clone created by our group using Swift and Firebase
 - [Here](https://github.com/MosesHimself/Software-Eng-Final-Proj/blob/master/SmartSheetEmail.png) is the email they had sent me.
 - Since we could not export the data as they had claimed, we had to transfer our Kanban board over to a Google Spreadsheet last minute.
 ## Daily Scrum Meetings
-- Tuesdays and Thursday we met before class and just talked about what we did the day prior, what we will do that day, and any troubles
-- Wednesday and Friday we met during the day, had a similar scrum meeting as specified above, and additionally had an hour or so of group work
+- Tuesdays and Thursday we met before class and just talked about what we did the day prior, what we will do that day, and any troubles.
+- Wednesday and Friday we met during the day, had a similar scrum meeting as specified above, and additionally had an hour or so of group work.
 
 ## Sprint 1
 ### Timeline: October 9th - October 27th
@@ -66,6 +66,8 @@ An Instagram clone created by our group using Swift and Firebase
 ### Timeline: November 27th - December 11th
 - Upon return from Thanksgiving break we had a lot that needed to get done.
 - We had finally began implementing our view in xcode and our project started to really take shape.
+- As the end of the semester was approaching and we were bombarded by exams, finals, and final projects, we had a lot less time to work than we had originally planned.
+- With the due date for this project coming up, we had shifted our focus from the development side of the project to the scrum side and began compiling all of our work into this particular repository.
 ## Conclusion
 - Looking back, we had picked way too large of a project for the amount of people we had in our group.
 - Deciding to use a new language for most of our group was a bold decision and ended up complicating things substantially.
